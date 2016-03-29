@@ -1,1 +1,1 @@
-# php-stdin-stdout
+This project shows work of PHP in the batch-mode
